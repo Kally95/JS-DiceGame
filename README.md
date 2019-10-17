@@ -17,3 +17,6 @@ The languages used for this particular project were:
 * ```HTML5```
 * ```CSS```
 * ```JAVASCRIPT```
+
+
+***Playable at: https://kally95.github.io/JS-DiceGame/com!***
