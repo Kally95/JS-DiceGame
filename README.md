@@ -19,4 +19,4 @@ The languages used for this particular project were:
 * ```JAVASCRIPT```
 
 
-***Playable at: https://kally95.github.io/JS-DiceGame/com!***
+***Playable at: https://kally95.github.io/JS-DiceGame/com !***
